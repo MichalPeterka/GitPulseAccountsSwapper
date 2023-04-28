@@ -1,2 +1,3 @@
 # GitPulseAccountsSwapper
-Solves using Git and Pulse VPN on shared mashine.
+
+For quick swap between git accounts and connecting to specific Pulse Secure Account
